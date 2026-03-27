@@ -1,0 +1,9 @@
+Sheryians AI School:
+====================
+
+Continue: https://www.youtube.com/watch?v=_aWbUudZ5Yo
+
+1. Python: https://www.youtube.com/watch?v=_aWbUudZ5Yo
+2. Numpy
+3. Pandas
+4. Matplotlib & Seaborn: https://www.youtube.com/watch?v=-jTD74eEy2I
