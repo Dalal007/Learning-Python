@@ -1,9 +1,14 @@
 Sheryians AI School:
 ====================
 
-Continue: https://www.youtube.com/watch?v=QUaSmqBeR9w&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=3
+Continue: https://www.youtube.com/watch?v=eF7HoC-cLRM&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=5
+
+Learn lambda functions properly
+
+
 
 1. Python: https://www.youtube.com/watch?v=_aWbUudZ5Yo
 2. Numpy: https://www.youtube.com/watch?v=Utgwk0r9Zq4&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=2
-3. Pandas: https://www.youtube.com/watch?v=QUaSmqBeR9w&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=3 (01:17)
-4. Matplotlib & Seaborn: https://www.youtube.com/watch?v=-jTD74eEy2I
+3. Pandas: https://www.youtube.com/watch?v=QUaSmqBeR9w&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=3
+4. Matplotlib & Seaborn: https://www.youtube.com/watch?v=-jTD74eEy2I&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=4
+5. Statistics: https://www.youtube.com/watch?v=eF7HoC-cLRM&list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&index=5
